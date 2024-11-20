@@ -15,14 +15,14 @@ def approval():
 def raj_logo():
     """Display the logo and clear the screen after displaying it."""
     logo = r"""
-888     888 888     888     d8888 8888888 .d8888b.  
-888     888 888     888    d88888   888  d88P  Y88b 
-888     888 888     888   d88P888   888  Y88b.      
-888     888 Y88b   d88P  d88P 888   888   "Y888b.   
-888     888  Y88b d88P  d88P  888   888      "Y88b. 
-888     888   Y88o88P  d88P   888   888        "888 
-Y88b. .d88P    Y888P  d8888888888   888  Y88b  d88P 
- "Y88888P"      Y8P  d88P     888 8888888 "Y8888P"
+     888     888 888     888     d8888 8888888 .d8888b.  
+     888     888 888     888    d88888   888  d88P  Y88b 
+     888     888 888     888   d88P888   888  Y88b.      
+     888     888 Y88b   d88P  d88P 888   888   "Y888b.   
+     888     888  Y88b d88P  d88P  888   888      "Y88b. 
+     888     888   Y88o88P  d88P   888   888        "888 
+     Y88b. .d88P    Y888P  d8888888888   888  Y88b  d88P 
+     "Y88888P"      Y8P  d88P     888 8888888 "Y8888P"
     """.format(Fore.YELLOW, Fore.GREEN, Fore.CYAN, Fore.MAGENTA, Fore.BLUE, Fore.WHITE)
 
     print(Fore.MAGENTA + Style.BRIGHT + logo)
@@ -33,7 +33,7 @@ def show_termux_message():
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║  {0}WONER      : BROK3N NADE3M                                               ║
 ║  {1}RULL3X     : UP FIRE RUL3X                                               ║
-║  {1}FACEBOK    : ERIIX    OIIX                                             ║
+║  {1}FACEBOK    : ʌ-ɭɭ Aʀƴʌŋ ɭɭ-ʌ                                             ║
 ║  {2}RULS       : MULTI TOKEN CN                                              ║
 ║  {3}GITHUB     : BROKEN,NADEEM                                               ║ 
 ║  {1}WH9TS9P    : +917534035181                                               ║
