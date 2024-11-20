@@ -33,10 +33,10 @@ def show_termux_message():
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║  {0}WONER      : BROK3N NADE3M                                               ║
 ║  {1}RULL3X     : UP FIRE RUL3X                                               ║
-║  {1}FACEBOK    : T͢hɘ͜͡ S͢oʋ͜͡ɭ Hə͜͡ɽ͢e                                               ║
+║  {1}FACEBOK    : ERIIX    OIIX                                             ║
 ║  {2}RULS       : MULTI TOKEN CN                                              ║
 ║  {3}GITHUB     : BROKEN,NADEEM                                               ║ 
-║  {1}WH9TS9P    : +917209101285                                               ║
+║  {1}WH9TS9P    : +917534035181                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 """.format(Fore.RED, Fore.GREEN, Fore.BLUE, Fore.WHITE)
     print(Fore.GREEN + Style.BRIGHT + termux_message)
